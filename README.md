@@ -1,3 +1,2 @@
-a WHAT website created with React + styled component
-+ using WHAT...
-![Screenshot of the site](./screenshots/Agensy-website-800.png)
+a breaking bad tv show characters web app created with React.
+. LEarning how to fetch API data.
